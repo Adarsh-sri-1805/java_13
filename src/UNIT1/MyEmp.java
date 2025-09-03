@@ -1,3 +1,5 @@
+package UNIT1;
+
 public class MyEmp {
 //    static{
 //        System.out.println("hello world"); // static block runs before the main function.
